@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+    margin: 120px;
+}
+
+h1 {
+    width: fit-content;
+    font-size: 50px;
+    margin: 40px auto;
+}
+
+link {
+    color: rgb(110, 50, 179);
+}
+
+img {
+    /* tengo que convertir la img (inline) a block para alinearlo 
+    con margin q si no no hace nada*/
+    display: block;
+    margin: auto;
+}

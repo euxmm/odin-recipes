@@ -1,6 +1,7 @@
 body{
     background-color: rgb(241, 204, 255);
     margin: 48px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
@@ -22,4 +23,8 @@ ul {
     border: 5px double #6c3dc4;
     padding: 20px;
     background-color: azure;
+}
+
+li {
+    margin-left: 40px;
 }
